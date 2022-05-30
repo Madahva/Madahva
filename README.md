@@ -5,7 +5,7 @@
 ## 📫 How to reach me: 
 
   - Linkedin: https://www.linkedin.com/in/guillermo-galarza-8a478220a/
-  - Portfolio: https://madahva.github.io/Portfolio/
+  - Portfolio: https://madhava.netlify.app/
 
 <!---
 Madahva/Madahva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
