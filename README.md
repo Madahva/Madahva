@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋🏼, I'm Guillermo Galarza @Madahva</h1>
 <h3 align="left">A passionate frontend developer from Argentina 😎</h3>
 
-<br><br/>
-
 - 🌟 All of my projects are available in [My Portfolio](https://madhava.netlify.app/)
 - 🌱 I’m currently learning **React.js**
 
