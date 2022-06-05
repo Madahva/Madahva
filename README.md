@@ -17,6 +17,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=madahva&title=Commits,Repositories&margin-w=15)](https://github.com/madahva/github-profile-trophy)
 
-<p align="right"><a href="https://linkedin.com/in/https://www.linkedin.com/in/guillermo-galarza-8a478220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillermo-galarza-8a478220a/" height="30" width="40" /></a></p>
+<p align="right"><a href="https://www.linkedin.com/in/guillermo-galarza-8a478220a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillermo-galarza-8a478220a/" height="30" width="40" /></a></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
