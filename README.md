@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning _**JAVA**_
 - 💥 I’m focused on Front-end with _**React**_
 
-<p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif"></a></p>
+<p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="40"></a></p>
  
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Madahva&theme=holi-theme&hide_border=true&ring=9D9CFF&currStreakNum=2A7AE4&sideNums=2A7AE4&fire=FF7903&dates=9D9CFF&currStreakLabel=5595E9&stroke=2A7AE4&sideLabels=5595E9&background=FFFFFF00" alt="madahva" /></p>
 
