@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Guillermo Galarza @Madahva</h1>
-<h3 align="left">A passionate Front-end web developer from Argentina 😎</h3>
+<h3 align="left">A passionate <i>Full-stack</i> web developer focused on <i>Front-end</i> 😎</h3>
 
 - 🌟 [All of my projects are available in My Portfolio](https://madhava.netlify.app/)
 - 🌱 I’m currently learning _**Firebase**_
