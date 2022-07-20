@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋🏼, I'm Guillermo Galarza @Madahva</h1>
-<h3 align="left">A passionate Full-stack web developer from Argentina 😎</h3>
+<h3 align="left">A passionate Front-end web developer from Argentina 😎</h3>
 
 - 🌟 [All of my projects are available in My Portfolio](https://madhava.netlify.app/)
 - 🌱 I’m currently learning _**Firebase**_
+- 🎨 I use _**React**_
 
 
 <p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="40"></a></p>
