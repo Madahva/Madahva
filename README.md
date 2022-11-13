@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋🏼, I'm Guillermo Galarza @Madahva</h1>
+<h1 align="center">Hello 👋🏼 I'm Guillermo Galarza @Madahva</h1>
 <h3 align="left">A passionate <i>Full-stack</i> web developer focused on <i>Front-end</i> 😎</h3>
 
 - 🌟 [All of my projects are available in My Portfolio](https://madhava.netlify.app/)
