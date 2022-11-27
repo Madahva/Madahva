@@ -75,7 +75,7 @@
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=vim&svgfill=15d8fe">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=vim&svgfill=7FC728">
  </a>
 </p>
 
