@@ -2,7 +2,7 @@
 
 <h2>Glad to see you here!</h2>
 
-<p align="left">My name is Guillermo Galarza and I'm a <b><i>Full-stack</i></b> web developer focused on <b><i>Front-end</i></b> 🐥
+<p align="left">My name is Guillermo Galarza and I'm a self-motivated <b><i>Full-stack</i></b> web developer focused on <b><i>Front-end</i></b> 🐥
 
  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
@@ -10,8 +10,9 @@
 
 
 - 🌟 [All of my projects are available in my Portfolio](https://madhava.netlify.app/)
-- 🌱 I’m currently learning _**JAVA**_
-- 🎨 I use _**React**_
+- 🌱 I’m currently learning **JAVA**.
+- 🎨 I use **React**.
+- 🌎 I am from Argentina.
 
 
 <p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="50"></a></p>
