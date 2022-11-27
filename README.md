@@ -59,7 +59,7 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=3595CF">
  </a>
  
- <!--
+ 
  <a href="https://github.com/harish-sethuraman/readme-components">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
  </a>
@@ -78,7 +78,7 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim&svgfill=15d8fe">
  </a>
 </p>
--->
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
 
