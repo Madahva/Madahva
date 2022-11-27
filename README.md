@@ -34,48 +34,48 @@
 
 <p align="left">  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=javascript&svgfill=f6df1c">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=15d8fe">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=next.js&svgfill=15d8fe">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=9a80da">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=redux&svgfill=BD8DD6">  
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=7FC728">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=node.js&svgfill=7FC728">
  </a>
 
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=0fa54d">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=mongodb&svgfill=0fa54d">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=3595CF">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=CSS3&svgfill=15d8fe">
  </a>
  
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=html5&svgfill=f06629">
  </a>
 
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=0076C6">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=typescript&svgfill=15d8fe">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=E84E31">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=git&svgfill=E84E31">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim&svgfill=15d8fe">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=vim&svgfill=15d8fe">
  </a>
 </p>
 
@@ -96,12 +96,12 @@
   <img width="350px" src="https://user-images.githubusercontent.com/89199369/204140623-f54f7ba4-77d4-491f-81d0-bf2119512888.png">
  </a>
  
- <a href="https://madahva.github.io/Easybank--Landing-page/">
-  <img width="350px" src="https://user-images.githubusercontent.com/89199369/204141147-e4546d4f-5f37-4612-936d-339bb8101a44.png">
- </a>
- 
  <a href="https://madahva.github.io/Bookmark--Landing-page/">
   <img width="350px" src="https://user-images.githubusercontent.com/89199369/204140628-f043aa4d-f937-4e1a-b2ca-dd39469d4f5e.png">
+ </a>
+ 
+ <a href="https://madahva.github.io/Easybank--Landing-page/">
+  <img width="350px" src="https://user-images.githubusercontent.com/89199369/204141147-e4546d4f-5f37-4612-936d-339bb8101a44.png">
  </a>
 </p>
 
