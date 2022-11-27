@@ -25,9 +25,6 @@
  </a>
 </p>
 
- <!-- <p align="center"> <img src= "https://user-images.githubusercontent.com/89199369/164584013-93e43cd2-8103-4920-9cc9-dfebf2bb26ff.png" /> </p>
--->
-
 
 <br></br>
 ### 🛠 Technologies and Tools I use:
@@ -39,7 +36,7 @@
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=0076C6">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
@@ -59,16 +56,19 @@
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=3595CF">
  </a>
  
+ <!--
  <a href="https://github.com/harish-sethuraman/readme-components">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
  </a>
 
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=3595CF">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=0076C6">
  </a>
+
+
  
  <a href="https://github.com/harish-sethuraman/readme-components">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=E84E31">
@@ -78,5 +78,34 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim&svgfill=15d8fe">
  </a>
 </p>
+-->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
+
+
+<br></br>
+### 🔥 A selection of projects I've worked on.
+<br></br>
+
+<p align="center"> 
+ <a href="https://madahva.github.io/Space-tourism--Website/">
+  <img width="500px" src="https://user-images.githubusercontent.com/89199369/204140189-e8c30475-2cde-4fd3-b0f8-8ef46f3086cc.png">
+ </a>
+
+ <a href="https://darling-pixie-9ff28f.netlify.app/">
+  <img width="500px" src="https://user-images.githubusercontent.com/89199369/204140623-f54f7ba4-77d4-491f-81d0-bf2119512888.png">
+ </a>
+ 
+ <br></br>
+ 
+ <a href="https://madahva.github.io/Easybank--Landing-page/">
+  <img width="500px" src="https://user-images.githubusercontent.com/89199369/204141147-e4546d4f-5f37-4612-936d-339bb8101a44.png">
+ </a>
+ 
+ <a href="https://madahva.github.io/Bookmark--Landing-page/">
+  <img width="500px" src="https://user-images.githubusercontent.com/89199369/204140628-f043aa4d-f937-4e1a-b2ca-dd39469d4f5e.png">
+ </a>
+</p>
+
+<br></br>
+ <p align="center"><a href="https://madhava.netlify.app/"><img src= "https://user-images.githubusercontent.com/89199369/164584013-93e43cd2-8103-4920-9cc9-dfebf2bb26ff.png" /> </a></p>
