@@ -1,5 +1,13 @@
-<h1 align="center">Hello 👋🏼 I'm Guillermo Galarza @Madahva</h1>
-<h3 align="left">A passionate <i>Full-stack</i> web developer focused on <i>Front-end</i> 😎</h3>
+<h1 align="center">Hello, folks! <img width="40px" src="https://user-images.githubusercontent.com/89199369/204114410-6956de04-d449-4ddf-9197-cd89f92430ed.gif" /> </h1>
+
+<h2>Glad to see you here!</h2>
+
+<p align="left">My name is Guillermo Galarza and I'm a <b><i>Full-stack</i></b> web developer focused on <b><i>Front-end</i></b> 🐥
+
+ I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+
+</p>
+
 
 - 🌟 [All of my projects are available in my Portfolio](https://madhava.netlify.app/)
 - 🌱 I’m currently learning _**JAVA**_
@@ -14,4 +22,53 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
 
-<p align="center"> <img src= "https://user-images.githubusercontent.com/89199369/164584013-93e43cd2-8103-4920-9cc9-dfebf2bb26ff.png" /> </p>
+ <!-- <p align="center"> <img src= "https://user-images.githubusercontent.com/89199369/164584013-93e43cd2-8103-4920-9cc9-dfebf2bb26ff.png" /> </p>
+-->
+### 🛠 Technologies and Tools I use:
+
+
+
+
+
+<p align="left">  
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+ 
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+ </a>
+ 
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=8ed5fa">
+ </a>
+ 
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=df5c43">  
+ </a>
+ 
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+ </a>
+
+ <a href="https://github.com/harish-sethuraman/readme-components">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+ </a>
+
+
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a>
+ 
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+ 
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+ 
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=9a80da&logo=git&svgfill=E84E31">
+</a>
+</p>
