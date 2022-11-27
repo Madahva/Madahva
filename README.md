@@ -89,21 +89,19 @@
 
 <p align="center"> 
  <a href="https://madahva.github.io/Space-tourism--Website/">
-  <img width="500px" src="https://user-images.githubusercontent.com/89199369/204140189-e8c30475-2cde-4fd3-b0f8-8ef46f3086cc.png">
+  <img width="350px" src="https://user-images.githubusercontent.com/89199369/204140189-e8c30475-2cde-4fd3-b0f8-8ef46f3086cc.png">
  </a>
 
  <a href="https://darling-pixie-9ff28f.netlify.app/">
-  <img width="500px" src="https://user-images.githubusercontent.com/89199369/204140623-f54f7ba4-77d4-491f-81d0-bf2119512888.png">
+  <img width="350px" src="https://user-images.githubusercontent.com/89199369/204140623-f54f7ba4-77d4-491f-81d0-bf2119512888.png">
  </a>
  
- <br></br>
- 
  <a href="https://madahva.github.io/Easybank--Landing-page/">
-  <img width="500px" src="https://user-images.githubusercontent.com/89199369/204141147-e4546d4f-5f37-4612-936d-339bb8101a44.png">
+  <img width="350px" src="https://user-images.githubusercontent.com/89199369/204141147-e4546d4f-5f37-4612-936d-339bb8101a44.png">
  </a>
  
  <a href="https://madahva.github.io/Bookmark--Landing-page/">
-  <img width="500px" src="https://user-images.githubusercontent.com/89199369/204140628-f043aa4d-f937-4e1a-b2ca-dd39469d4f5e.png">
+  <img width="350px" src="https://user-images.githubusercontent.com/89199369/204140628-f043aa4d-f937-4e1a-b2ca-dd39469d4f5e.png">
  </a>
 </p>
 
