@@ -19,6 +19,7 @@
  
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Madahva&theme=holi-theme&hide_border=true&ring=9D9CFF&currStreakNum=2A7AE4&sideNums=2A7AE4&fire=FF7903&dates=9D9CFF&currStreakLabel=5595E9&stroke=2A7AE4&sideLabels=5595E9&background=FFFFFF00" alt="madahva" /></p>
 
+<br></br>
 <p align="right">
  <a href="https://www.linkedin.com/in/guillermo-galarza-8a478220a/" target="_blank">
   <img src="https://user-images.githubusercontent.com/89199369/204117526-e4ee20c8-9045-4b24-b209-15636e9eff10.svg" width="150"/>
@@ -27,7 +28,7 @@
 
 
 <br></br>
-### 🛠 Technologies and Tools I use:
+### 🛠 Technologies and Tools I use.
 <br></br>
 
 <!-- https://github.com/harish-sethuraman/readme-components -->
