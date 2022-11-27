@@ -36,7 +36,7 @@
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=0076C6">
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
@@ -44,7 +44,7 @@
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=df5c43">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=7248B6">  
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
@@ -73,6 +73,6 @@
 </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim&svgfill=019331">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim&svgfill=15d8fe">
 </a>
 </p>
