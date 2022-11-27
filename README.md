@@ -1,4 +1,4 @@
-<h1 align="center">Hello, folks! <img width="40px" src="https://user-images.githubusercontent.com/89199369/204114410-6956de04-d449-4ddf-9197-cd89f92430ed.gif" /> </h1>
+<h1 align="center">Hello, folks! <a href="https://madhava.netlify.app/"><img width="40px" src="https://user-images.githubusercontent.com/89199369/204114410-6956de04-d449-4ddf-9197-cd89f92430ed.gif" /></a></h1>
 
 <h2>Glad to see you here!</h2>
 
@@ -30,51 +30,51 @@
 ### 🛠 Technologies and Tools I use:
 <br></br>
 
+<!-- https://github.com/harish-sethuraman/readme-components -->
+
 <p align="left">  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
  </a>
  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=15d8fe">
  </a>
  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=9a80da">  
  </a>
  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=7FC728">
  </a>
 
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=0fa54d">
  </a>
  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=3595CF">
  </a>
  
  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
  </a>
 
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=0076C6">
  </a>
-
-
  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=E84E31">
  </a>
  
- <a href="https://github.com/harish-sethuraman/readme-components">
+ <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim&svgfill=15d8fe">
  </a>
 </p>
