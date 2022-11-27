@@ -14,7 +14,7 @@
 - 🎨 I use _**React**_
 
 
-<p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="40"></a></p>
+<p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="50"></a></p>
  
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Madahva&theme=holi-theme&hide_border=true&ring=9D9CFF&currStreakNum=2A7AE4&sideNums=2A7AE4&fire=FF7903&dates=9D9CFF&currStreakLabel=5595E9&stroke=2A7AE4&sideLabels=5595E9&background=FFFFFF00" alt="madahva" /></p>
 
@@ -24,10 +24,10 @@
 
  <!-- <p align="center"> <img src= "https://user-images.githubusercontent.com/89199369/164584013-93e43cd2-8103-4920-9cc9-dfebf2bb26ff.png" /> </p>
 -->
+
+
 ### 🛠 Technologies and Tools I use:
-
-
-
+<br></br>
 
 
 <p align="left">  
@@ -40,11 +40,11 @@
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=8ed5fa">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=15d8fe">
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=7248B6">  
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=9a80da">  
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
