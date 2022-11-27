@@ -48,27 +48,31 @@
  </a>
  
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=7FC728">
  </a>
 
  <a href="https://github.com/harish-sethuraman/readme-components">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=0fa54d">
  </a>
-
-
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a>
  
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
  
+
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a>
+
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=3595CF">
 </a>
  
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=9a80da&logo=git&svgfill=E84E31">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=E84E31">
+</a>
+ 
+ <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vim&svgfill=019331">
 </a>
 </p>
