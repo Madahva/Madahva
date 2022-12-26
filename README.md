@@ -4,6 +4,13 @@
 
 <p align="left">My name is <b><i>Guillermo</i></b>  and I'm a self-motivated <b><i>Full-stack</i></b> web developer focused on <b><i>Front-end</i></b> 🐥
 
+As a recent graduate of the <b>Henry Bootcamp</b>, I have gained a strong foundation in web development, with a focus on front-end technologies such as React, CSS, and JavaScript.
+
+In addition to my formal education, I have completed several web development projects as part of my coursework and have also built a number of personal projects to further develop my skills. These projects have included building a responsive portfolio website and implementing custom features for a mock e-commerce site.
+ 
+I have also gained experience working on agile development teams and collaborating with designers and project managers to deliver successful projects.
+
+While I may not have professional experience as a web developer, I am confident in my ability to learn and contribute to a team. I am excited to continue growing my skills and making an impact as a junior web developer.
 
 </p>
 
