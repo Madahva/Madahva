@@ -1,10 +1,10 @@
 <h1 align="center">Hello, folks! <a href="https://madhava.netlify.app/"><img width="40px" src="https://user-images.githubusercontent.com/89199369/204114410-6956de04-d449-4ddf-9197-cd89f92430ed.gif" /></a></h1>
 
-<h2>Glad to see you here!</h2>
+<h2>Glad to see you here! 🐥</h2>
 
-<p align="left">My name is <b><i>Guillermo</i></b>  and I'm a self-motivated <b><i>Full-stack</i></b> web developer focused on <b><i>Front-end</i></b> 🐥
+<p align="left">My name is <b><i>Guillermo</i></b>  and I'm a self-motivated <b><i>Full-stack</i></b> web developer focused on <b><i>Front-end</i></b>. 
 
-As a recent graduate of the <b>Henry Bootcamp</b>, I have gained a strong foundation in web development, with a focus on front-end technologies such as React, CSS, and JavaScript.
+As a recent graduate of the <b>Henry Bootcamp</b>, I have gained a strong foundation in web development, with a focus on front-end technologies such as React, Redux, Next, CSS, and JavaScript.
 
 In addition to my formal education, I have completed several web development projects as part of my coursework and have also built a number of personal projects to further develop my skills. These projects have included building a responsive portfolio website and implementing custom features for a mock e-commerce site.
  
