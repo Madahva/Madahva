@@ -59,10 +59,6 @@ While I may not have professional experience as a web developer, I am confident 
  <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=node.js&svgfill=7FC728">
  </a>
-
- <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=mongodb&svgfill=0fa54d">
- </a>
  
  <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=CSS3&svgfill=15d8fe">
