@@ -16,7 +16,7 @@ While I may not have professional experience as a web developer, I am confident 
 
 
 - 🌟 [All of my projects are available in my Portfolio](https://madhava.netlify.app/)
-- 🌱 I’m currently learning **JAVA**.
+- 🌱 I’m currently learning **Node.js**.
 - 🎨 I use **React**.
 - 🌎 I am from Argentina.
 
@@ -63,7 +63,6 @@ While I may not have professional experience as a web developer, I am confident 
  <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=CSS3&svgfill=15d8fe">
  </a>
- 
  
  <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=html5&svgfill=f06629">
