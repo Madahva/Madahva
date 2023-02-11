@@ -32,6 +32,7 @@ While I may not have professional experience as a web developer, I am confident 
  </a>
 </p>
 
+---
 
 <br></br>
 ### 🛠 Technologies and Tools I use.
@@ -48,8 +49,8 @@ While I may not have professional experience as a web developer, I am confident 
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=javascript&svgfill=f6df1c">
  </a>
  
- <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=next.js&svgfill=15d8fe">
+  <a href="https://madhava.netlify.app/">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=typescript&svgfill=15d8fe">
  </a>
  
  <a href="https://madhava.netlify.app/">
@@ -57,19 +58,19 @@ While I may not have professional experience as a web developer, I am confident 
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=node.js&svgfill=7FC728">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=next.js&svgfill=15d8fe">
  </a>
  
- <a href="https://madhava.netlify.app/">
+  <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=CSS3&svgfill=15d8fe">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=html5&svgfill=f06629">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=node.js&svgfill=7FC728">
  </a>
-
+ 
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=typescript&svgfill=15d8fe">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=postgresql&svgfill=15d8fe">
  </a>
  
  <a href="https://madhava.netlify.app/">
@@ -84,6 +85,7 @@ While I may not have professional experience as a web developer, I am confident 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
 
+---
 
 <br></br>
 ### 🔥 A selection of projects I've worked on.
