@@ -50,7 +50,7 @@ While I may not have professional experience as a web developer, I am confident 
  </a>
  
   <a href="https://madhava.netlify.app/">
-  <img  src="https://logos-api-production.up.railway.app/logo?name=typeScript&width=170&borderRadius=50px">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=typeScript&width=160&borderRadius=50px">
  </a>
  
  <a href="https://madhava.netlify.app/">
@@ -70,7 +70,7 @@ While I may not have professional experience as a web developer, I am confident 
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://logos-api-production.up.railway.app/logo?name=Express&width=150&borderRadius=50px">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=Express&width=140&borderRadius=50px">
  </a>
  
  <a href="https://madhava.netlify.app/">
