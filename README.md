@@ -40,49 +40,49 @@ While I may not have professional experience as a web developer, I am confident 
 
 <!-- https://github.com/harish-sethuraman/readme-components -->
 
-<p align="left">  
+<p align="center">  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=react&animation=spin&svgfill=15d8fe">  
+  <img  src="https://logos-api-production.up.railway.app/logo?name=React&width=120&animation=true">  
+ </a>
+ 
+ <a href="https://madhava.netlify.app/">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=JavaScript&width=160">
  </a>
  
   <a href="https://madhava.netlify.app/">
-  <img  src="https://logos-api-production.up.railway.app/logo?name=react&width=200&animation=true&borderRadius=50px">  
+  <img  src="https://logos-api-production.up.railway.app/logo?name=typeScript&width=170">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=javascript&svgfill=f6df1c">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=Redux&width=140">  
+ </a>
+ 
+ <a href="https://madhava.netlify.app/">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=next.js&width=140">
  </a>
  
   <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=typescript&svgfill=15d8fe">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=CSS3&width=150">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=redux&svgfill=BD8DD6">  
+  <img  src="https://logos-api-production.up.railway.app/logo?name=Node.js&width=150">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=next.js&svgfill=15d8fe">
- </a>
- 
-  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=CSS3&svgfill=15d8fe">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=Express&width=150">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=node.js&svgfill=7FC728">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=PostgreSQL&width=170">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=postgresql&svgfill=15d8fe">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=Git&width=120">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=git&svgfill=E84E31">
- </a>
- 
- <a href="https://madhava.netlify.app/">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=vim&svgfill=7FC728">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=vim&width=150">
  </a>
 </p>
 
