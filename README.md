@@ -45,6 +45,10 @@ While I may not have professional experience as a web developer, I am confident 
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
  
+  <a href="https://madhava.netlify.app/">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=react&width=200&animation=true&borderRadius=50px">  
+ </a>
+ 
  <a href="https://madhava.netlify.app/">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=392AE0&logo=javascript&svgfill=f6df1c">
  </a>
