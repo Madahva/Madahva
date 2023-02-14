@@ -66,11 +66,19 @@ While I may not have professional experience as a web developer, I am confident 
  </a>
  
  <a href="https://madhava.netlify.app/">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=Chakra%20UI&width=160&borderRadius=50px">
+ </a>
+ 
+ <a href="https://madhava.netlify.app/">
   <img  src="https://logos-api-production.up.railway.app/logo?name=Node.js&width=140&borderRadius=50px">
  </a>
  
  <a href="https://madhava.netlify.app/">
   <img  src="https://logos-api-production.up.railway.app/logo?name=Express&width=140&borderRadius=50px">
+ </a>
+ 
+  <a href="https://madhava.netlify.app/">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=sequelize&width=150&borderRadius=50px">
  </a>
  
  <a href="https://madhava.netlify.app/">
