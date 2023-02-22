@@ -64,6 +64,10 @@ While I may not have professional experience as a web developer, I am confident 
   <a href="https://madhava.netlify.app/">
   <img  src="https://logos-api-production.up.railway.app/logo?name=CSS3&width=120&borderRadius=50px">
  </a>
+  
+  <a href="https://madhava.netlify.app/">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=mUI&width=150&borderRadius=50px">
+ </a>
  
  <a href="https://madhava.netlify.app/">
   <img  src="https://logos-api-production.up.railway.app/logo?name=Node.js&width=140&borderRadius=50px">
@@ -78,16 +82,17 @@ While I may not have professional experience as a web developer, I am confident 
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://logos-api-production.up.railway.app/logo?name=PostgreSQL&width=170&borderRadius=50px">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=PostgreSQL&width=175&borderRadius=50px">
  </a>
  
  <a href="https://madhava.netlify.app/">
-  <img  src="https://logos-api-production.up.railway.app/logo?name=Git&width=120&borderRadius=50px">
+  <img  src="https://logos-api-production.up.railway.app/logo?name=Git&width=110&borderRadius=50px">
  </a>
  
  <a href="https://madhava.netlify.app/">
   <img  src="https://logos-api-production.up.railway.app/logo?name=vim&width=150&borderRadius=50px">
  </a>
+
 </p>
 
 
