@@ -2,9 +2,9 @@
 
 <h2>Glad to see you here! 🐥</h2>
 
-<p align="left">My name is <b><i>Guillermo</i></b>  and I'm a self-motivated <b><i>Full-stack</i></b> web developer focused on <b><i>Front-end</i></b>. 
+<p align="left">My name is <b><i>Guillermo</i></b>  and I'm a self-motivated <b><i>Full-stack</i></b> web developer. 
 
-As a recent graduate of the <b>Henry Bootcamp</b>, I have gained a strong foundation in web development, with a focus on front-end technologies such as React, Redux, Next, CSS, and JavaScript.
+As a recent graduate of the <b>Henry Bootcamp</b>, I have gained a strong foundation in web development, with a focus on front-end technologies such as React, Redux, Next, CSS, JavaScript and TypeScript.
 
 In addition to my formal education, I have completed several web development projects as part of my coursework and have also built a number of personal projects to further develop my skills. These projects have included building a responsive portfolio website and implementing custom features for a mock e-commerce site.
  
