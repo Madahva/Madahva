@@ -14,8 +14,8 @@ While I may not have professional experience as a web developer, I am confident 
 
 </p>
 
-- 💼 I am currently seeking full-stack web development job opportunities.
-- 🌟 Check out my portfolio at https://madhava.netlify.app/ for examples of my work.
+- 💼 I am currently seeking full-stack web development <b>job opportunities</b>.
+- 🌟 Check out my [portfolio](https://madhava.netlify.app/) for examples of my work.
 - 📚 I enjoy learning and exploring new technologies and frameworks.
 - 💬 If you have any questions or would like to discuss potential projects or collaborations, please don't hesitate to contact me. I am always eager to talk about web development and explore new opportunities. You can reach me at [LinkedIn](https://www.linkedin.com/in/guillermo-galarza-8a478220a/).
 
