@@ -14,11 +14,10 @@ While I may not have professional experience as a web developer, I am confident 
 
 </p>
 
-
-- 🌟 [All of my projects are available in my Portfolio](https://madhava.netlify.app/)
-- 🌱 I’m currently learning **Node.js**.
-- 🎨 I use **React**.
-- 🌎 I am from Argentina.
+- 💼 I am currently seeking full-stack web development job opportunities.
+- 🌟 Check out my portfolio at https://madhava.netlify.app/ for examples of my work.
+- 📚 I enjoy learning and exploring new technologies and frameworks.
+- 💬 If you have any questions or would like to discuss potential projects or collaborations, please don't hesitate to contact me. I am always eager to talk about web development and explore new opportunities. You can reach me at [LinkedIn](https://www.linkedin.com/in/guillermo-galarza-8a478220a/).
 
 
 <p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="50"></a></p>
