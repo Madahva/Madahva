@@ -4,7 +4,7 @@
 
 <p align="left">My name is <b><i>Guillermo</i></b>  and I'm a self-motivated <b><i>Full-stack</i></b> web developer with a strong foundation in both front-end and back-end technologies. 
 
-As a recent graduate of the <b>Henry Bootcamp</b>, I have gained knowledge and practical experience in a variety of programming languages and frameworks, including React, Redux, Node.js, Express, SQL, Sequalize, and TypeScript.
+As a recent graduate of the <b>Henry Bootcamp</b>, I have gained knowledge and practical experience in a variety of programming languages and frameworks, including React, Redux, Node.js, Express, Sequalize, PostgreSQL and TypeScript.
 
 In addition to my formal education, I have completed several web development projects as part of my coursework and have also built a number of personal projects to further develop my skills. These projects have included building a responsive portfolio website and implementing custom features for a mock e-commerce site.
  
