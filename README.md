@@ -96,7 +96,6 @@ While I may not have professional experience as a web developer, I am confident 
 </p>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
 
 ---
 
@@ -136,3 +135,4 @@ While I may not have professional experience as a web developer, I am confident 
 -->
 
 <br></br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
