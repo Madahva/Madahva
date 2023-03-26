@@ -134,5 +134,4 @@ While I may not have professional experience as a web developer, I am confident 
  <p align="center"><a href="https://madhava.netlify.app/"><img src= "https://user-images.githubusercontent.com/89199369/164584013-93e43cd2-8103-4920-9cc9-dfebf2bb26ff.png" /> </a></p>
 -->
 
-<br></br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
