@@ -2,7 +2,7 @@
 
 <h2>Glad to see you here! 🐥</h2>
 
-<p align="left">My name is <b><i>Guillermo</i></b>  and I'm a <b><i>Full-stack</i></b> web developer with a strong foundation in both <b>front-end</b> and <b>back-end</b> technologies. 
+<p align="left">My name is <b><i>Guillermo</i></b>  and I'm a <b><i>Full-stack</i></b> web developer with a strong foundation in both <b>front-end</b> and <b>back-end</b> technologies.
 
 As a recent graduate of the <b>Henry Bootcamp</b>, I have gained knowledge and practical experience in a variety of programming languages and frameworks, including React, Next , Redux, Node.js, Express, Sequalize, PostgreSQL and TypeScript.
 
