@@ -28,10 +28,6 @@ While I may not have professional experience as a web developer, I am confident 
 -->
 <p align="center">
  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madahva&theme=nord_dark" />
-  <br></br> 
-
- <img width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madahva&theme=nord_dark" />
- <img width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madahva&theme=nord_dark" />
 </p>
 
 
