@@ -23,7 +23,18 @@ While I may not have professional experience as a web developer, I am confident 
 
 <p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="50"></a></p>
  
+ <!--
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Madahva&theme=holi-theme&hide_border=true&ring=9D9CFF&currStreakNum=2A7AE4&sideNums=2A7AE4&fire=FF7903&dates=9D9CFF&currStreakLabel=5595E9&stroke=2A7AE4&sideLabels=5595E9&background=FFFFFF00" alt="madahva" /></p>
+-->
+<p align="center">
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madahva&theme=nord_dark" />
+  <br></br> 
+
+ <img width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madahva&theme=nord_dark" />
+ <img width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madahva&theme=nord_dark" />
+</p>
+
+
 
 <br></br>
 <p align="right">
