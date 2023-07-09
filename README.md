@@ -10,7 +10,7 @@ In addition to my formal education, I have completed several web development pro
  
 I have also gained experience working on agile development teams and collaborating with designers and project managers to deliver successful projects.
 
-While I may not have professional experience as a web developer, I am confident in my ability to learn and adapt quickly to new technologies and contribute to a team's success. I am excited to continue growing my skills and making a significant impact as a full-stack web developer. 
+I am confident in my ability to learn and adapt quickly to new technologies and contribute to a team's success. I am excited to continue growing my skills and making a significant impact as a full-stack web developer. 
 
  
 </p>
