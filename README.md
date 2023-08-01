@@ -4,18 +4,18 @@
 
 <p align="left">My name is <b><i>Guillermo</i></b>  and I'm a <b><i>Full-stack</i></b> web developer with a strong foundation in both <b>front-end</b> and <b>back-end</b> technologies.
 
-As a recent graduate of the <b>Henry Bootcamp</b>, I have gained knowledge and practical experience in a variety of programming languages and frameworks, including React, Next , Redux, Node.js, Express, Sequalize, PostgreSQL and TypeScript.
+As a graduate of the <b>Henry Bootcamp</b>, I have gained knowledge and practical experience in a variety of programming languages and frameworks, including React, Next , Redux, Node.js, Express, Sequalize, PostgreSQL, and TypeScript.
 
 In addition to my formal education, I have completed several web development projects as part of my coursework and have also built a number of personal projects to further develop my skills. These projects have included building a responsive portfolio website and implementing custom features for a mock e-commerce site.
  
 I have also gained experience working on agile development teams and collaborating with designers and project managers to deliver successful projects.
 
-I am confident in my ability to learn and adapt quickly to new technologies and contribute to a team's success. I am excited to continue growing my skills and making a significant impact as a full-stack web developer. 
+**I am confident in my ability to learn and adapt quickly to new technologies and contribute to a team's success. I am excited to continue growing my skills and making a significant impact as a full-stack web developer.**
 
  
 </p>
 
-- 💼 I am currently seeking full-stack web development <b>job opportunities</b>.
+- 💼 I am currently working as a **full-stack web developer.**
 - 🌟 Check out my [portfolio](https://madhava.netlify.app/) for examples of my work.
 - 📚 I enjoy learning and exploring new technologies and frameworks.
 - 💬 If you have any questions or would like to discuss potential projects or collaborations, please don't hesitate to contact me. I am always eager to talk about web development and explore new opportunities. You can reach me at [LinkedIn](https://www.linkedin.com/in/guillermo-galarza-8a478220a/).
