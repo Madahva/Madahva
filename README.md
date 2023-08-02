@@ -17,30 +17,23 @@ My experience includes working with agile development teams, where I collaborate
 - 📚 I enjoy learning and exploring new technologies and frameworks.
 - 💬 If you have any questions or would like to discuss potential projects or collaborations, please don't hesitate to contact me. I am always eager to talk about web development and explore new opportunities. You can reach me at [LinkedIn](https://www.linkedin.com/in/guillermo-galarza-8a478220a/).
 
-
 <p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="50"></a></p>
  
  <!--
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Madahva&theme=holi-theme&hide_border=true&ring=9D9CFF&currStreakNum=2A7AE4&sideNums=2A7AE4&fire=FF7903&dates=9D9CFF&currStreakLabel=5595E9&stroke=2A7AE4&sideLabels=5595E9&background=FFFFFF00" alt="madahva" /></p>
--->
+
 <p align="center">
  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madahva&theme=nord_dark" />
 </p>
+-->
 
 
 
-<br></br>
-<p align="right">
- <a href="https://www.linkedin.com/in/guillermo-galarza-8a478220a/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/89199369/204117526-e4ee20c8-9045-4b24-b209-15636e9eff10.svg" width="150"/>
- </a>
-</p>
 
 ---
 
-<br></br>
 ### 🛠 Technologies and Tools I use.
-<br></br>
+
 
 <!-- https://github.com/harish-sethuraman/readme-components -->
 
@@ -98,10 +91,6 @@ My experience includes working with agile development teams, where I collaborate
 
 </p>
 
-
-
----
-
 <br></br>
 ### 🔥 A selection of projects I've worked on.
 <br></br>
@@ -136,5 +125,11 @@ My experience includes working with agile development teams, where I collaborate
 <!--
  <p align="center"><a href="https://madhava.netlify.app/"><img src= "https://user-images.githubusercontent.com/89199369/164584013-93e43cd2-8103-4920-9cc9-dfebf2bb26ff.png" /> </a></p>
 -->
+
+<p align="right">
+ <a href="https://www.linkedin.com/in/guillermo-galarza-8a478220a/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/89199369/204117526-e4ee20c8-9045-4b24-b209-15636e9eff10.svg" width="150"/>
+ </a>
+</p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
