@@ -2,14 +2,14 @@
 
 <h2>Glad to see you here! 🐥</h2>
 
-I'm Guillermo, a full-stack Engineer with a growing passion for blockchain technology and smart contracts. While my experience spans both front-end and back-end web development, I'm currently diving deeper into the blockchain sphere to expand my expertise.
+I'm Guillermo, a **Full-Stack Engineer** with a growing passion for blockchain technology and smart contracts. While my experience spans both front-end and back-end web development, I'm currently diving deeper into the blockchain sphere to expand my expertise.
 
 
 **Confident in my ability to learn and adapt quickly to new technologies and contribute to a team's success. I am excited to continue growing my skills and making a significant impact as a full-stack Engineer.**
 
 </p>
 
-- 💼 I'm currently working as a **full-stack engineer at Libertum**, contributing to innovative projects.
+- 💼 I'm currently working as a **Full-Stack Engineer at Libertum**, contributing to innovative projects.
 - 🌟 Check out my [portfolio](https://madhava.netlify.app/) for examples of my work.
 - 📚 I enjoy learning and exploring new technologies and frameworks.
 - 💬 **Let's Connect:** If you have any questions or would like to discuss potential projects or collaborations, please don't hesitate to contact me. I am always eager to talk about web development and explore new opportunities. You can reach me at [LinkedIn](https://www.linkedin.com/in/guillermo-galarza-8a478220a/).
