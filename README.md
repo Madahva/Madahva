@@ -1,6 +1,6 @@
-<h1 align="center">Hello, folks! <a href="https://madhava.netlify.app/"><img width="40px" src="https://user-images.githubusercontent.com/89199369/204114410-6956de04-d449-4ddf-9197-cd89f92430ed.gif" /></a></h1>
+<h1 align="center">Hello, folks!</h1>
 
-<h2>Glad to see you here! 🐥</h2>
+<h2>Glad to see you here!</h2>
 
 I'm Guillermo, a **Full-Stack Engineer** with a growing passion for blockchain technology and smart contracts. While my experience spans both front-end and back-end web development, I'm currently diving deeper into the blockchain sphere to expand my expertise.
 
