@@ -2,20 +2,17 @@
 
 <h2>Glad to see you here! 🐥</h2>
 
-<p align="left">My name is <b><i>Guillermo</i></b>  and I'm a <b><i>Full-stack</i></b> web developer with a strong foundation in both <b>front-end</b> and <b>back-end</b> technologies.
+I'm Guillermo, a full-stack Engineer with a growing passion for blockchain technology and smart contracts. While my experience spans both front-end and back-end web development, I'm currently diving deeper into the blockchain sphere to expand my expertise.
 
-As a graduate of the <b>Henry Bootcamp</b>, I have gained knowledge and practical experience in a variety of programming languages and frameworks, including React, Next.js, Redux, Node.js, Express, Sequalize, PostgreSQL, and TypeScript.
 
-My experience includes working with agile development teams, where I collaborated effectively with designers and project managers, resulting in successful project deliveries.
-
-**I am confident in my ability to learn and adapt quickly to new technologies and contribute to a team's success. I am excited to continue growing my skills and making a significant impact as a full-stack web developer.**
+**Confident in my ability to learn and adapt quickly to new technologies and contribute to a team's success. I am excited to continue growing my skills and making a significant impact as a full-stack Engineer.**
 
 </p>
 
-- 💼 I am currently working as a **full-stack web developer.**
+- 💼 I'm currently working as a **full-stack engineer at Libertum**, contributing to innovative projects.
 - 🌟 Check out my [portfolio](https://madhava.netlify.app/) for examples of my work.
 - 📚 I enjoy learning and exploring new technologies and frameworks.
-- 💬 If you have any questions or would like to discuss potential projects or collaborations, please don't hesitate to contact me. I am always eager to talk about web development and explore new opportunities. You can reach me at [LinkedIn](https://www.linkedin.com/in/guillermo-galarza-8a478220a/).
+- 💬 **Let's Connect:** If you have any questions or would like to discuss potential projects or collaborations, please don't hesitate to contact me. I am always eager to talk about web development and explore new opportunities. You can reach me at [LinkedIn](https://www.linkedin.com/in/guillermo-galarza-8a478220a/).
 
 <p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="50"></a></p>
  
@@ -107,14 +104,6 @@ My experience includes working with agile development teams, where I collaborate
  
  <a href="https://madahva.github.io/Easybank--Landing-page/">
   <img width="350px" src="https://user-images.githubusercontent.com/89199369/204141147-e4546d4f-5f37-4612-936d-339bb8101a44.png">
- </a>
- 
-  <a href="https://ecommerce--pf.vercel.app/">
-  <img width="350px" src="https://user-images.githubusercontent.com/89199369/226086411-e66e83f5-6dd1-46dd-9830-48d91d3b46af.png">
- </a>
- 
-   <a href="https://pokedex-pi.netlify.app/">
-  <img width="350px" src="https://user-images.githubusercontent.com/89199369/226086432-5393c636-0f2a-4bc4-9614-7bddce7b9984.png">
  </a>
 </p>
 
