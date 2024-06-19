@@ -26,12 +26,6 @@ I'm Guillermo, a **Full-Stack Engineer** with a growing passion for blockchain t
 
 
 
-
-
-
- <p align="center"><a href="https://madhava.netlify.app/"><img src= "https://user-images.githubusercontent.com/89199369/164584013-93e43cd2-8103-4920-9cc9-dfebf2bb26ff.png" /> </a></p>
-
-
 <p align="right">
  <a href="https://www.linkedin.com/in/guillermo-galarza-8a478220a/" target="_blank">
   <img src="https://user-images.githubusercontent.com/89199369/204117526-e4ee20c8-9045-4b24-b209-15636e9eff10.svg" width="150"/>
