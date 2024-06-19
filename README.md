@@ -23,13 +23,4 @@ I'm Guillermo, a **Full-Stack Engineer** with a growing passion for blockchain t
 </p>
 -->
 
-
-
-
-<p align="right">
- <a href="https://www.linkedin.com/in/guillermo-galarza-8a478220a/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/89199369/204117526-e4ee20c8-9045-4b24-b209-15636e9eff10.svg" width="150"/>
- </a>
-</p>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
